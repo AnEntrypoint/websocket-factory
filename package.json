@@ -1,0 +1,21 @@
+{
+  "name": "@sequentialos/websocket-factory",
+  "version": "1.0.0",
+  "description": "WebSocket connection factory pattern for subscription endpoints",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnEntrypoint/sequential-websocket-factory"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
